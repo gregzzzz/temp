@@ -1,3 +1,5 @@
 this allows login
 
+now adding functionality to send email
+
 this allows logout
