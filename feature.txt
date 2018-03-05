@@ -1,6 +1,6 @@
 this allows login
-
+include fans module
 include email module
 include printing module
-
+do stuff with fans here
 this allows logout
