@@ -3,4 +3,5 @@ include fans module
 include email module
 include printing module
 do stuff with fans here
+include engine
 this allows logout
