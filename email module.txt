@@ -1,3 +1,0 @@
-this is the new email module..
-
-spliting up the app into modules for easy wrking

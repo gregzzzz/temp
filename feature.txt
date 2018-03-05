@@ -1,6 +1,5 @@
 this allows login
 
-include email module
-include printing module
+now adding functionality to send email
 
 this allows logout
